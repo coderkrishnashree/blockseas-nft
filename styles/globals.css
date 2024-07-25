@@ -73,3 +73,10 @@ button.wallet-adapter-button-trigger {
 button.wallet-adapter-button-trigger:hover {
   background-color: rgb(var(--hover-background-rgb)) !important;
 }
+
+.dropzone {
+  border: 2px dashed #0070f3;
+  padding: 20px;
+  text-align: center;
+  margin: 20px 0;
+}

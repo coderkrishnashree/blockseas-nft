@@ -44,6 +44,7 @@ import {
 } from "@metaplex-foundation/mpl-token-metadata";
 import { checkAtaValid } from "./validateConfig";
 
+
 export const guardChecker = async (
   umi: Umi,
   candyGuard: CandyGuard,

@@ -1,0 +1,34 @@
+{
+  "program": {
+    "candyMachine": "7zjtUjXLgssiSCR63QG945WdCqGEEANRk3dAEw5cmPNm",
+    "candyGuard": "7EmAqsBcRBWk7nQ3Xhy8EEZCDzbbiZ2UXMC8sodYTeGx",
+    "candyMachineCreator": "sHcwnpeuNygqfKk7V9pWiAf2NWyRsyfv1VCJEMx2RtS",
+    "collectionMint": "CJSqb2ZMzZspc1cTf5yvP8JqZhTWYWMyWdRTHcqk4nSu"
+  },
+  "items": {
+    "-1": {
+      "name": "NFTCOL",
+      "image_hash": "b6dfe55361970c6ad3f864fe3e8e757c45e62d42a670ae241aa259be2250ec12",
+      "image_link": "https://arweave.net/reZmYKP1rWTeZ7ZHuTYcgpEuNpdGmfI__SKey8vhJd4?ext=png",
+      "metadata_hash": "9f9ebd3fe5a5ed37389eca82a01e6a0b7dcc45e7da5c66cc9a2b0c18b5ff0669",
+      "metadata_link": "https://arweave.net/qi_-EELYNYc8K8sdAk8HK7GO_zlEHFeBt1gUQAbjvH8",
+      "onChain": true
+    },
+    "0": {
+      "name": "NFT #0",
+      "image_hash": "b601d0790f0eef299e6692e20961a94964b431cc38369606947b7ec6387a6ca2",
+      "image_link": "https://arweave.net/TWiHSFr0M7EQqgz0fQg6VkgAXTmSCxqZ2hzQyDYcRI0?ext=png",
+      "metadata_hash": "e06a096642e7cce2496681b9303398a5ae0559261fb78c7be325ed643f80c63e",
+      "metadata_link": "https://arweave.net/xmVrD43-GbH8zGeQvW1z8XfANjWM5uGml0JrBXFep-U",
+      "onChain": true
+    },
+    "1": {
+      "name": "NFT #1",
+      "image_hash": "c423b0924a64dc3c35b9e61400f5ab5d9ad02413a4e84a1580a9b76337d7ab8f",
+      "image_link": "https://arweave.net/JyVSdPRYpGXfDuoIV4cIdciq83DnKhLih1ja3AxVH14?ext=png",
+      "metadata_hash": "4e7d6f76928857f3a46836a51fba2ee59dc8d5706c3299d00afba6e4b7a6f00b",
+      "metadata_link": "https://arweave.net/zOjyPrehsP530_3--L7ysuje2XZe85oDZ-vX64X0z-Y",
+      "onChain": true
+    }
+  }
+}

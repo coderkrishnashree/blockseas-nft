@@ -1,0 +1,18 @@
+{
+    "name": "NFTCOL",
+    "symbol": "COLN",
+    "uri": "https://via.placeholder.com/200",
+    "seller_fee_basis_points": 500,
+    "description": "Description of your NFT",
+    "image": "collection.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "https://via.placeholder.com/300",
+          "type": "image/png"
+        }
+      ],
+      "category": "image"
+    }
+  }
+  

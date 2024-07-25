@@ -17,6 +17,7 @@ import { ShowNft } from "../components/showNft";
 import { InitializeModal } from "../components/initializeModal";
 import { image, headerText } from "../settings";
 import { useSolanaTime } from "@/utils/SolanaTimeContext";
+import UploadAndMint from '../components/UploadAndMint';
 
 const WalletMultiButtonDynamic = dynamic(
   async () =>
@@ -203,10 +204,12 @@ export default function Home() {
         <style jsx global>
           {`
       body {
-          background: #2d3748; 
+          background: white; 
        }
    `}
         </style>
+        <h1>Mint Your QR Ticket as an NFT</h1>
+        <UploadAndMint />
         <Card>
           <CardHeader>
             <Flex minWidth='max-content' alignItems='center' gap='2'>

@@ -1,0 +1,18 @@
+{
+    "name": "NFT #1",
+    "symbol": "COLN",
+    "uri": "https://via.placeholder.com/200",
+    "seller_fee_basis_points": 500,
+    "description": "Description of your NFT",
+    "image": "1.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "https://via.placeholder.com/200",
+          "type": "image/png"
+        }
+      ],
+      "category": "image"
+    }
+  }
+  
